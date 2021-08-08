@@ -12,6 +12,7 @@ import static game.ProcessUtils.UTF_8;
  * Main x class.
  */
 public class Main {
+    gh repo clone syncRH/game-java_krista
 
     public static void main(String[] args) {
         List<String> input = readStringsFromInputStream(System.in, UTF_8);
